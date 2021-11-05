@@ -4,4 +4,4 @@
 - 👀 I’m interested in coding, weighlifting and movies
 - 📫 How to reach me:
   - ⚡ LinkedIn: https://www.linkedin.com/in/papp-bence-5110271bb/
-  - 📷 Instagram: @papp.bence
+  - 📷 Instagram: @papp.bence 
