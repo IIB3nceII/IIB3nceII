@@ -6,7 +6,7 @@ Software Engineer
 
 *   🌍  Budapest, Hungary
 *   ✉️  You can contact me at [https://www.linkedin.com/in/papp-bence-5110271bb/](mailto:https://www.linkedin.com/in/papp-bence-5110271bb/)
-*   🧠  I'm learning GO### Skills<p align="left">
+*   🧠  I'm learning GO<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
