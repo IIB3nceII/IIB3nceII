@@ -4,7 +4,7 @@ Hi 👋 My name is Bence
 Software Engineer
 -----------------
 
-*   🌍  I'm based in Budapest, Hungary
+*   🌍  Budapest, Hungary
 *   ✉️  You can contact me at [https://www.linkedin.com/in/papp-bence-5110271bb/](mailto:https://www.linkedin.com/in/papp-bence-5110271bb/)
 *   🧠  I'm learning GO### Skills<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
